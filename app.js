@@ -1,3 +1,4 @@
+//04/08/2025
 listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
